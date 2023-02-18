@@ -1,0 +1,15 @@
+C:\Users\Amaro\Desktop\ms-vs2022\Secao 10\ExPropMetodAbs\ExPropMetodAbs\obj\Debug\net7.0\ExPropMetodAbs.csproj.AssemblyReference.cache
+C:\Users\Amaro\Desktop\ms-vs2022\Secao 10\ExPropMetodAbs\ExPropMetodAbs\obj\Debug\net7.0\ExPropMetodAbs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amaro\Desktop\ms-vs2022\Secao 10\ExPropMetodAbs\ExPropMetodAbs\obj\Debug\net7.0\ExPropMetodAbs.AssemblyInfoInputs.cache
+C:\Users\Amaro\Desktop\ms-vs2022\Secao 10\ExPropMetodAbs\ExPropMetodAbs\obj\Debug\net7.0\ExPropMetodAbs.AssemblyInfo.cs
+C:\Users\Amaro\Desktop\ms-vs2022\Secao 10\ExPropMetodAbs\ExPropMetodAbs\obj\Debug\net7.0\ExPropMetodAbs.csproj.CoreCompileInputs.cache
+C:\Users\Amaro\Desktop\ms-vs2022\Secao 10\ExPropMetodAbs\ExPropMetodAbs\bin\Debug\net7.0\ExPropMetodAbs.exe
+C:\Users\Amaro\Desktop\ms-vs2022\Secao 10\ExPropMetodAbs\ExPropMetodAbs\bin\Debug\net7.0\ExPropMetodAbs.deps.json
+C:\Users\Amaro\Desktop\ms-vs2022\Secao 10\ExPropMetodAbs\ExPropMetodAbs\bin\Debug\net7.0\ExPropMetodAbs.runtimeconfig.json
+C:\Users\Amaro\Desktop\ms-vs2022\Secao 10\ExPropMetodAbs\ExPropMetodAbs\bin\Debug\net7.0\ExPropMetodAbs.dll
+C:\Users\Amaro\Desktop\ms-vs2022\Secao 10\ExPropMetodAbs\ExPropMetodAbs\bin\Debug\net7.0\ExPropMetodAbs.pdb
+C:\Users\Amaro\Desktop\ms-vs2022\Secao 10\ExPropMetodAbs\ExPropMetodAbs\obj\Debug\net7.0\ExPropMetodAbs.dll
+C:\Users\Amaro\Desktop\ms-vs2022\Secao 10\ExPropMetodAbs\ExPropMetodAbs\obj\Debug\net7.0\refint\ExPropMetodAbs.dll
+C:\Users\Amaro\Desktop\ms-vs2022\Secao 10\ExPropMetodAbs\ExPropMetodAbs\obj\Debug\net7.0\ExPropMetodAbs.pdb
+C:\Users\Amaro\Desktop\ms-vs2022\Secao 10\ExPropMetodAbs\ExPropMetodAbs\obj\Debug\net7.0\ExPropMetodAbs.genruntimeconfig.cache
+C:\Users\Amaro\Desktop\ms-vs2022\Secao 10\ExPropMetodAbs\ExPropMetodAbs\obj\Debug\net7.0\ref\ExPropMetodAbs.dll
